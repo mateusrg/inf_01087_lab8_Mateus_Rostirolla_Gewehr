@@ -1,0 +1,19 @@
+Parte 2 - Prompt simples
+"Explique o que são estruturas de dados"
+
+Parte 2 - Prompt elaborado
+Contexto: Sou calouro em Ciência da Computação na UFRGS e tenho dúvidas quanto ao que são estruturas de dados, especialmente a definição mais formal e acadêmica.
+Público-Alvo: Um estudante de primeiro semestre de Ciência da Computação, com curso técnico no Ensino Médio em desenvolvimento web fullstack e um ano de experiência com desenvolvimento mobile, que aprende bem visualizando exemplos práticos.
+Formato Desejado: Um guia didático estruturado em Markdown, utilizando analogias do mundo real para explicar os 5 tipos mais comuns de estruturas de dados. Inclua uma seção curta explicando por que um programador precisa dominar isso.
+
+Parte 3 - Prompt simples
+"me dê um código de um jogo de adivinhação de números"
+
+Parte 4 - Prompt elaborado
+Escreva o código de um jogo de adivinhação de números nos seguintes critérios:
+Linguagem de programação: Python.
+Nível de explicação: Forneça uma explicação passo a passo da lógica utilizada, adequada para um estudante universitário de computação.
+Comentários: Inclua comentários curtos e diretos no próprio código para explicar o que cada bloco lógico (variáveis, laços e condicionais) está fazendo.
+Exemplos de entrada e saída: Após o código, mostre um bloco de texto simulando uma partida no console, evidenciando as entradas do usuário e as respostas esperadas do sistema (ex: "Muito alto", "Muito baixo", "Você acertou").
+Tratamento de erros: O código deve validar a entrada do usuário, garantindo que o programa não quebre caso ele digite letras, caracteres especiais ou envie um texto em branco, solicitando que ele digite novamente.
+Restrições de implementação: O número a ser adivinhado deve estar entre 1 e 100. Utilize um laço while para manter o jogo rodando até o usuário acertar, e não utilize nenhuma biblioteca de terceiros, apenas as nativas da linguagem.
